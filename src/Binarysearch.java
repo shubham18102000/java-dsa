@@ -1,7 +1,7 @@
 public class Binarysearch {
     int binaryseach(int key)
     {
-        int[] arr = { 1,3, 5, 6, 7, 8, 9, 10};
+        int[] arr = { 1,3, 5, 6, 7, 8, 9, 10 , 12};
 
         int low = 0;
         int high = arr.length-1;
